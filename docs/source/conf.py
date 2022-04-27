@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Clinical Data Bible'
+copyright = '2022 - All rights reserved'
+author = 'Patrick Hirschi'
 
 release = '0.1'
 version = '0.1.0'

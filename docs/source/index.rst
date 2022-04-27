@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Clinical Data Bible
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The **Clinical Data Bible (CDB)** is a pure documentation project covering all the aspects of clinical data engineering / science projects. It aims to provide basic knowledge and serve as a quick start guide for anyone wanting to do something with clinical data.
 
 .. note::
 
-   This project is under active development.
+   This project is under active & continuous development.
 
 Contents
 --------
@@ -19,4 +13,3 @@ Contents
 .. toctree::
 
    usage
-   api
