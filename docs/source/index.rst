@@ -12,4 +12,10 @@ Contents
 
 .. toctree::
 
-   usage
+   prerequisites
+   hospitaldataecosystem
+   architectures
+   semantics
+   furtheruse
+   governance
+
